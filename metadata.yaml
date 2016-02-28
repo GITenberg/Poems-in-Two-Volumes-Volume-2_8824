@@ -1,0 +1,23 @@
+_repo: Poems-in-Two-Volumes-Volume-2_8824
+creator:
+  author:
+    agent_name: Wordsworth, William
+    birthdate: 1770
+    deathdate: 1850
+    gutenberg_agent_id: '2879'
+    url: http://www.gutenberg.org/2009/agents/2879
+    wikipedia: http://en.wikipedia.org/wiki/William_Wordsworth
+description: ''
+gutenberg_issued: '2005-09-01'
+gutenberg_type: Text
+identifiers:
+  gutenberg: '8824'
+language: en
+publisher: Project Gutenberg
+rights: Public domain in the USA.
+rights_url: http://creativecommons.org/about/pdm
+subjects:
+- !lcc 'PR'
+- !lcsh 'English poetry'
+title: Poems in Two Volumes, Volume 2
+url: http://www.gutenberg.org/ebooks/8824
